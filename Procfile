@@ -1,0 +1,1 @@
+web: gunicorn --pythonpath mysite1 mysite1.wsgi
